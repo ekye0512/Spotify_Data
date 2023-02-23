@@ -2,6 +2,6 @@
 
 Introduction to Python Pandas
 
-Working with a Spotify Data Set
+Dataset: Kaggle 
 
-Getting started with Data and information visualization
+Objective: Getting started with Data and information visualization
